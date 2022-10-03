@@ -1,0 +1,3 @@
+include ':nbcu'
+include ':app'
+rootProject.name = "NBCU_IoC"
